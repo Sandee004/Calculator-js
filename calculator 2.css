@@ -4,23 +4,23 @@ body {
 }
 @media only screen and (max-width: 1300px){
     .top {
-    width: 550px;
-    height: 800px;
+    width: 320px;
+    height: 470px;
     border-radius: 20px;
     border-radius: 18px;
     background: #003865;
     box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.3);
-    margin: 50px auto;
+    margin: auto auto;
     padding: 32px 16px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-        m
+    
 
 }
 .top .result {
     width: 100%;
-    height: 230px;
+    height: 100px;
     border-radius: 10px;
     border-radius: 18px;
     background: #D4F6CC;
@@ -39,14 +39,14 @@ body {
 .top .buttons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-gap: 2em;
+    grid-gap: 1em;
 }
 .top .buttons .button, .top .buttons .num-button {
     cursor: grab;
     text-align: center;
-    width: 110px;
+    width: 60px;
     font-size: 18px;
-    height: 110px;
+    height: 60px;
     display: grid;
     place-content: center;
     border-radius: 20px;
