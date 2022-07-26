@@ -7,7 +7,7 @@ body {
     height: 470px;
     border-radius: 20px;
     border-radius: 18px;
-    background: 003865;
+    background: #003865;
     box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.3);
     margin: 0 auto;
     padding: 32px 16px;
@@ -77,7 +77,7 @@ body {
     font-weight: bold;
 }
 .calc-action-btn {
-    color: #00000;
+    color: #3CCF4E;
     font-size: 60px;
     font-weight: bold;
 
