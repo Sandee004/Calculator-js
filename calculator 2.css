@@ -1,6 +1,8 @@
 body {
     background: #D4F6CC;
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: auto;
 }
 @media only screen and (max-width: 1300px){
     .top {
