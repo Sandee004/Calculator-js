@@ -7,7 +7,7 @@ body {
     height: 470px;
     border-radius: 20px;
     border-radius: 18px;
-    background: grey;
+    background: 003865;
     box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.3);
     margin: 0 auto;
     padding: 32px 16px;
@@ -21,7 +21,7 @@ body {
     height: 100px;
     border-radius: 10px;
     border-radius: 18px;
-    background: lightgrey;
+    background: #D4F6CC;
     margin-bottom: 19px;
 }
 .top .result p {
@@ -49,7 +49,7 @@ body {
     place-content: center;
     border-radius: 20px;
     border-radius: 18px;
-    background: lightgrey;
+    background: #EF5B0C;
     box-shadow: 5px 5px 5px #c1c1c1,
     -5px -5px 10px #808080;
     font-weight: bold;
