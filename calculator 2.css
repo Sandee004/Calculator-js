@@ -4,17 +4,18 @@ body {
 }
 @media only screen and (max-width: 1300px){
     .top {
-    width: 400px;
-    height: 550px;
+    width: 320px;
+    height: 470px;
     border-radius: 20px;
     border-radius: 18px;
     background: #003865;
     box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.3);
-    margin: 0 auto;
+    margin: 50px auto;
     padding: 32px 16px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+        m
 
 }
 .top .result {
