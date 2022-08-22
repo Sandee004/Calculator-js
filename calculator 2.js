@@ -32,7 +32,7 @@ function evaluate(fn) {
 total.addEventListener('click', ()=> {
 let allInputs = screen.innerHTML;
 
-screen.innerHTML = evaluate(allInputs).toFixed(4);
+screen.innerHTML = evaluate(allInputs);
 
 console.log(evaluate(allInputs));
 })
